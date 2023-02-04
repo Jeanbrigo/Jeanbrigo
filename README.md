@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ✅ Completed more CRUD apps than I can remember
+- 🌱 Currently learning Python
