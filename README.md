@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 👨‍💻 Looking to join a forward-thinking dev team.
+- 🔭 I’m currently working on my fourth project, a full-stack Django CRUD app
 - ✅ Completed more CRUD apps than I can remember
-- 🌱 Currently learning Python
+- 🌱 Next language planned: 🕊️Swift
+- ⚡ Fun fact: I have launched into the startup world twice, with Eatsy and Barhop.
+- 🎵 I also actively DJ deep house music events!
