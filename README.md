@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👨‍💻 Looking to join a forward-thinking dev team.
-- 🔭 I’m currently working on my fourth project, a full-stack Django CRUD app
+- 🔭 I’m currently working on my fourth major project, a full-stack Django CRUD app
 - ✅ Completed more CRUD apps than I can remember
 - 🌱 Next language planned: 🕊️Swift
 - ⚡ Fun fact: I have launched into the startup world twice, with Eatsy and Barhop.
