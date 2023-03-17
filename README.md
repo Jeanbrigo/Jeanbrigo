@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Looking to join a forward-thinking dev team.<br>🔭 Just built a full-stack Django CRUD app<br>✅ Completed more CRUD apps than I can remember<br>🌱 Next language planned: 🕊️Swift<br>⚡ Fun fact: I have launched into the startup world twice, with Eatsy and Barhop.<br>🎵 I also actively DJ deep house music events!
+👨‍💻 Looking to join a forward-thinking dev team.<br>🔭 Just built a full-stack Django CRUD app<br>✅ Completed more CRUD apps than I can remember<br>🌱 Currently Learning: 🕊️Swift<br>⚡ Fun fact: I have launched into the startup world twice, with Eatsy and Barhop.<br>🎵 I also actively DJ deep house music events!
 
 
 ## 🌐 Socials:
